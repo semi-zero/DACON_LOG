@@ -17,8 +17,6 @@
 
 ## 대회 소개 (Introduction)
 
-<br/>
-
 ### **1. 배경**
 
     
@@ -54,8 +52,6 @@
 <br/>
 
 ## 목차 (Table of Contents)
-
-<br/>
 
 **개발 단계** - raw_data부터 대회용 데이터까지의 경과
 
