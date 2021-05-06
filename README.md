@@ -1,9 +1,9 @@
 
 # 로그 분석을 통한 보안 위험도 예측 AI 경진대회
 
-- [대회 바로가기](https://www.dacon.io/competitions/official/235717/overview/description/)
-
 <br/>
+
+- [대회 바로가기](https://www.dacon.io/competitions/official/235717/overview/description/)
 
 ### **운동 동작 분류 AI 경진대회 대회 제작/운영 경과**
 
