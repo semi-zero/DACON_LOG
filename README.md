@@ -5,7 +5,7 @@
 
 - [대회 바로가기](https://www.dacon.io/competitions/official/235717/overview/description/)
 
-### **운동 동작 분류 AI 경진대회 대회 제작/운영 경과**
+### **로그 분석을 통한 보안 위험도 예측 AI 경진대회 제작/운영 경과**
 
 <br/>
 
@@ -35,14 +35,14 @@
 
 <br/>
 
-## 주최/주관
+### 3. 주최/주관
 
 - 주최: 연구개발특구진행재단 / 한국원자력연구원(KAERI) / 엠투어플
 - 주관: DACON
 
 <br/>
 
-## 규칙
+### 4. 규칙
 
 1. 심사 기준: [Macro F1](./0.%20Metric)
 2. 외부 데이터 및 사전 학습 모델
@@ -51,7 +51,7 @@
 
 <br/>
 
-## 목차 (Table of Contents)
+### 5. 목차 (Table of Contents)
 
 **개발 단계** - raw_data부터 대회용 데이터까지의 경과
 
