@@ -7,6 +7,7 @@
 
 ### **운동 동작 분류 AI 경진대회 대회 제작/운영 경과**
 
+<br/>
 
 <p align="center">
   <img src="main.png" width="500" height="500" /> 
