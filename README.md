@@ -12,6 +12,7 @@
   <img src="main.png" width="500" height="500" /> 
 </p>
 
+<br/>
 
 ## 대회 소개 (Introduction)
 
